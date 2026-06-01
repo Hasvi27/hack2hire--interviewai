@@ -14,7 +14,7 @@
 
 **Hack2Hire 2026**
 
-[![Live Demo] (https://hack2hire-interviewai.netlify.app/)
+[![App] (https://hack2hire-interviewai.netlify.app/)
 
 [![GitHub] (https://github.com/Hasvi27/hack2hire--interviewai)
 
