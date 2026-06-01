@@ -274,11 +274,10 @@ hack2hire-interviewai/
 
 ## 👩‍💻 Built By
 
-**[Your Name]** · [LinkedIn] · [Email]
+Hasvi Muriki, hmuriki@unc.edu, hasvimuriki.com
 
 Coded entirely in **Visual Studio Code**.
 
-Submitted for **Hack2Hire 2026** by nsaidTalks.
 
 ---
 
