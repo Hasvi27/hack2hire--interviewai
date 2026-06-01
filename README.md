@@ -12,7 +12,7 @@
 
 ### AI-Powered Mock Interview Platform
 
-**Hack2Hire 2026 · nsaidTalks**
+**Hack2Hire 2026**
 
 [![Live Demo] (https://hack2hire-interviewai.netlify.app/)
 [![GitHub] (https://github.com/Hasvi27/hack2hire--interviewai)
