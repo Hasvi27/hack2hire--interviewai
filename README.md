@@ -16,7 +16,6 @@
 
 ## 🚀 Live Demo
 
-**[🔗 View Deployed App](YOUR_VERCEL_URL_HERE)**
 
 ---
 
@@ -131,6 +130,6 @@ src/
 
 ## Contact
 
-**[Your Name]** · [your email] · [LinkedIn]
+Hasvi Muriki, hmuriki@unc.edu
 
-Built for Hack2Hire 2026 by nsaidTalks
+Built for Hack2Hire 2026
