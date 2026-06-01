@@ -15,9 +15,13 @@
 **Hack2Hire 2026**
 
 [![Live Demo] (https://hack2hire-interviewai.netlify.app/)
+
 [![GitHub] (https://github.com/Hasvi27/hack2hire--interviewai)
-[![Google slides] (https://docs.google.com/presentation/d/1y3lsXLr59OjjFYu-4CIR7u4htOq9d1v5/edit?usp=sharing&ouid=116788465780595888771&rtpof=true&sd=true)
+
+[![Google slides - Investor Pitch Deck] (https://docs.google.com/presentation/d/1y3lsXLr59OjjFYu-4CIR7u4htOq9d1v5/edit?usp=sharing&ouid=116788465780595888771&rtpof=true&sd=true)
+
 [![Built With](https://img.shields.io/badge/Built_With-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
+
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 
 </div>
