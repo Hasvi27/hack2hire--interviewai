@@ -15,7 +15,7 @@
 **Hack2Hire 2026 · nsaidTalks**
 
 [![Live Demo] (https://hack2hire-interviewai.netlify.app/)
-[![GitHub](https://img.shields.io/badge/REPO-Public-10b981?style=for-the-badge)](YOUR_REPO_URL)
+[![GitHub] (https://github.com/Hasvi27/hack2hire--interviewai)
 [![Built With](https://img.shields.io/badge/Built_With-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 
@@ -26,8 +26,7 @@
 ## 🎥 Demo
 
 > Click below to watch the full walkthrough
-
-**[▶ Watch Live Demo](YOUR_VIDEO_LINK)**
+https://www.loom.com/share/ea17cb9c62864f74914d08d2083da54a
 
 > The recording shows: persona selection, a live adaptive interview session, real-time difficulty escalation, the "Why This Score" breakdown, communication analysis, radar chart, and the hiring decision report.
 
