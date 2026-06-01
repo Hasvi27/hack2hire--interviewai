@@ -14,7 +14,7 @@
 
 **Hack2Hire 2026 · nsaidTalks**
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_App-8b5cf6?style=for-the-badge)](YOUR_DEPLOYED_URL)
+[![Live Demo] (https://hack2hire-interviewai.netlify.app/)
 [![GitHub](https://img.shields.io/badge/REPO-Public-10b981?style=for-the-badge)](YOUR_REPO_URL)
 [![Built With](https://img.shields.io/badge/Built_With-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
